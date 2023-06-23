@@ -1,2 +1,4 @@
 # BasicsC
-An introduction to the most recommended knowledge in C++.
+Es una introduccion a este lenguaje encontraras lo fundamental para aprender
+</br>
+:small_blue_diamond: Programa Indice masa coorporal IMC
