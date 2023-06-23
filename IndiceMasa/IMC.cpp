@@ -1,6 +1,8 @@
 //programa que calcula el indice de masa coorporal o IMC
 #include <iostream>
 #include <math.h>
+#include <iomanip>
+
 using namespace std;
 int main(){
 	//variables inicializadas
@@ -22,6 +24,8 @@ int main(){
 	
 	//resultado 
 	cout<<"El calculo de su indice de masa coorporal es:\n";
-	cout<<"Su IMC es:" <<resultado;
+	cout<<"Su IMC es:" <<setprecision(4)<<resultado;  //precision de decimales 
+	
+	
 	return 0;
 }
